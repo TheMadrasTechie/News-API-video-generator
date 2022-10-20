@@ -1,0 +1,8 @@
+newsapi-python
+opencv-python
+urllib
+numpy
+moviepy
+mutagen
+pillow
+gtts
