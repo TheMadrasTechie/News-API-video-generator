@@ -11,5 +11,9 @@ Install the requirements file.
 run the demo.py file .
 the program will run and you will get the file in video.mp4 file in the directory.
 
-To note
+# To note
 Temporaryfiles are stored in videos - they are tmeperory files.
+
+video.mp4 is the output
+images are downloaded in the images folder.
+audio file is generated and stored in audio directory.
