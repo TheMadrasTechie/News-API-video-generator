@@ -17,3 +17,7 @@ Temporaryfiles are stored in videos - they are tmeperory files.
 video.mp4 is the output
 images are downloaded in the images folder.
 audio file is generated and stored in audio directory.
+
+
+# Important note
+Kindly create a folder name ** videos ** and run the file. 
